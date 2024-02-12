@@ -1,7 +1,7 @@
 ### Hi there I'm Thomas 👋
 
 ### What am i studying 🧑🏻‍🦱
-
+It's my new account
 I study computer science in engineering school at ECE Paris.
 
 ### Languages and Tools:
